@@ -1,3 +1,3 @@
 # IPTV Dataset
 
-The IPTV dataset contains many features and it has more than 70 million rows and the size of data is in terabytes (TBs).  A sample is provided here.
+The IPTV data contains many features related to watching activites, and the size of the full dataset is actually in terabytes (TBs). In here, you can download a sample which has more than 3 million rows from the IPTV dataset.  
